@@ -1,0 +1,67 @@
+body {
+    background-image: linear-gradient( rgb(0 0 0 / 70%), rgb(0 0 0 / 70%)), url(../images/Bulgaria__0003_shutterstock_112558628.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+.inputForm {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.inputForm>h1 {
+    padding-top: 10%;
+    padding-block-end: 15%;
+}
+
+.container {
+    padding-block: 5%;
+}
+
+#movie-example>div>div.row.bg-dark.text-light>div {
+    margin-bottom: 7%;
+}
+
+.notify {
+    display: block;
+    position: fixed;
+    top: 25%;
+    margin-left: 42%;
+    /* padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%; */
+}
+
+#close {
+    padding-left: 195%;
+}
+
+#makeComment {
+    padding-top: 5%;
+}
+
+#makeComment>button {
+    margin-top: 2%;
+    margin-left: 50%;
+}
+
+#comment {
+    border: 2px solid white;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 5px;
+    padding: 3%;
+    margin-bottom: 2%;
+}
+
+.comment-list {
+    margin-top: 4%;
+}
+
+#cmtH1 {
+    text-align: center;
+    margin-top: 3%;
+}
